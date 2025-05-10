@@ -88,6 +88,10 @@ To ensure everything works seamlessly, here are some tips:
 
    * If you encounter deprecated functions like `fromstring`, replace them with `np.frombuffer`.
 
+## Demo Videos
+
+You can view output here: [Google Drive Link](https://drive.google.com/file/d/1WyE7iOAEl_vCOsSoNojz0MKQ7bdH43Dm/view?usp=sharing)
+
 ## License
 
 This project is licensed under the MIT License.
